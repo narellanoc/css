@@ -1,0 +1,20 @@
+h1{
+    color: red;
+    font-size: 72px;
+    font-weight: bold;
+}
+
+p{
+    font-size: 36px;
+}
+#mando{
+    color: brown;   
+}
+
+#grogu{
+    color: green;
+}
+
+.tacos{
+    color: purple;
+}
